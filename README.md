@@ -11,7 +11,7 @@ Group Members
 |-----|-----------|----------------|
 | 1   | Alintula Silwimba | 2410030 |
 | 2   | Fortune Jere      | 2410050 |
-| 3   |  Andrew sichali   | 2420953 |
+| 3   |  Andrew Sichali   | 2420953 |
 | 4   | Kapalanga Godelive| 2410381 |
 | 5 | John kasabi         | 2300328 |
 
